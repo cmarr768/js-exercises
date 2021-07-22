@@ -1,0 +1,98 @@
+[
+    {
+        "userId": 1234567,
+        "firstName": "Ash",
+        "lastName": "Ketchum",
+        "email": "ash-ketchum@fake.fake",
+        "created": "2021-07-01T18:25:43.511Z",
+        "regions": [
+            "kanto", 
+            "kalos"
+        ],
+        "pokemon": [{
+            "name": "pikachu",
+            "types": ["electric"]
+        }, {
+            "name": "charmander",
+            "types": ["fire"]
+        }, {
+            "name": "froakie",
+            "types": ["water"]
+        }, {
+            "name": "bulbasaur",
+            "types": ["grass", "poison"]
+        }]
+    },
+    {
+    "userId": 8398723,
+    "firstName": "Misty",
+    "email": "misty-pokemon@fake.fake",
+    "created": "2021-06-01T18:25:43.511Z",
+    "regions": ["kanto"],
+    "pokemon": [
+        {
+            "name": "staryu",
+        "types": ["water"]
+    }
+    ]
+    },
+    {
+    "userId": 3452,
+    "firstName": "Brock",
+    "email": "brock-pokemon@fake.fake",
+    "created": "2021-05-01T18:25:43.511Z",
+    "regions": ["kanto"],
+    "pokemon": [
+        {
+            "name": "geodude",
+        "types": ["rock","ground"]
+    },
+    {
+        "name": "onix",
+    "types": ["rock","ground"]
+}
+    ]
+    },
+    {
+    "userId": 7654888,
+    "firstName": "Serena",
+    "email": "serena-pokemon@fake.fake",
+    "created": "2021-05-23T18:25:43.511Z",
+    "regions": ["kalos"],
+    "pokemon": [
+        {
+            "name": "braixen",
+        "types": ["fire"]
+    },
+    {
+        "name": "pancham",
+    "types": ["fighting"]
+},
+{
+    "name": "eevee",
+"types": ["normal"]
+}
+    ]
+    },
+    {
+    "userId": 54333,
+    "firstName": "Clement",
+    "email": "clement-pokemon@fake.fake",
+    "created": "2021-06-11T18:25:43.511Z",
+    "regions": ["kalos"],
+    "pokemon": [
+        {
+            "name": "bunnelby",
+        "types": ["normal"]
+    },
+    {
+        "name": "chespin",
+    "types": ["grass"]
+},
+{
+    "name": "luxio",
+"types": ["electric"]
+}
+    ]
+    }
+]
