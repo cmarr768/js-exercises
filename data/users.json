@@ -24,75 +24,62 @@
         }]
     },
     {
-    "userId": 8398723,
-    "firstName": "Misty",
-    "email": "misty-pokemon@fake.fake",
-    "created": "2021-06-01T18:25:43.511Z",
-    "regions": ["kanto"],
-    "pokemon": [
-        {
+        "userId": 8398723,
+        "firstName": "Misty",
+        "email": "misty-pokemon@fake.fake",
+        "created": "2021-06-01T18:25:43.511Z",
+        "regions": ["kanto"],
+        "pokemon": [{
             "name": "staryu",
-        "types": ["water"]
-    }
-    ]
+            "types": ["water"]
+        }]
     },
     {
-    "userId": 3452,
-    "firstName": "Brock",
-    "email": "brock-pokemon@fake.fake",
-    "created": "2021-05-01T18:25:43.511Z",
-    "regions": ["kanto"],
-    "pokemon": [
-        {
+        "userId": 3452,
+        "firstName": "Brock",
+        "email": "brock-pokemon@fake.fake",
+        "created": "2021-05-01T18:25:43.511Z",
+        "regions": ["kanto"],
+        "pokemon": [{
             "name": "geodude",
-        "types": ["rock","ground"]
+            "types": ["rock","ground"]
+        }, {
+            "name": "onix",
+            "types": ["rock","ground"]
+        }]
     },
     {
-        "name": "onix",
-    "types": ["rock","ground"]
-}
-    ]
-    },
-    {
-    "userId": 7654888,
-    "firstName": "Serena",
-    "email": "serena-pokemon@fake.fake",
-    "created": "2021-05-23T18:25:43.511Z",
-    "regions": ["kalos"],
-    "pokemon": [
-        {
+        "userId": 7654888,
+        "firstName": "Serena",
+        "email": "serena-pokemon@fake.fake",
+        "created": "2021-05-23T18:25:43.511Z",
+        "regions": ["kalos"],
+        "pokemon": [{
             "name": "braixen",
-        "types": ["fire"]
+            "types": ["fire"]
+        },{
+            "name": "pancham",
+            "types": ["fighting"]
+        },{
+            "name": "eevee",
+            "types": ["normal"]
+        }]
     },
     {
-        "name": "pancham",
-    "types": ["fighting"]
-},
-{
-    "name": "eevee",
-"types": ["normal"]
-}
-    ]
-    },
-    {
-    "userId": 54333,
-    "firstName": "Clement",
-    "email": "clement-pokemon@fake.fake",
-    "created": "2021-06-11T18:25:43.511Z",
-    "regions": ["kalos"],
-    "pokemon": [
-        {
+        "userId": 54333,
+        "firstName": "Clement",
+        "email": "clement-pokemon@fake.fake",
+        "created": "2021-06-11T18:25:43.511Z",
+        "regions": ["kalos"],
+        "pokemon": [{
             "name": "bunnelby",
-        "types": ["normal"]
-    },
-    {
-        "name": "chespin",
-    "types": ["grass"]
-},
-{
-    "name": "luxio",
-"types": ["electric"]
-}
-    ]
+            "types": ["normal"]
+        },{
+            "name": "chespin",
+            "types": ["grass"]
+        },{
+            "name": "luxio",
+            "types": ["electric"]
+        }]
     }
 ]
