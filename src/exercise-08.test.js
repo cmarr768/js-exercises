@@ -15,7 +15,7 @@ const getSeries = (regions) => {
 
 const transformPokemon = (objects) => {};
 
-describe('exercise-07', () => {
+describe('exercise-08', () => {
   describe('transformPokemon', () => {
     beforeEach(() => {
       jest.spyOn(Array.prototype, 'map');
