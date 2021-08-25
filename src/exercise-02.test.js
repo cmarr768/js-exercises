@@ -11,6 +11,8 @@ describe('exercise-02', () => {
         { key: 'lastName', value: user.lastName },
         { key: 'email', value: user.email },
         { key: 'created', value: user.created },
+        { key: 'address', value: user.address },
+        { key: 'linkedAccount', value: user.linkedAccount },
       ]);
     });
   });

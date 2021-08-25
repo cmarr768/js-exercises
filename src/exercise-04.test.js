@@ -15,7 +15,7 @@ describe('exercise-04', () => {
     });
 
     it('should handle fields that do not exist', () => {
-      const { email, ...ans } = user;
+      const { email, address, ...ans } = user;
       expect(omit(user, ['email', 'address', 'updated'])).toStrictEqual(ans);
     });
   });

@@ -3,5 +3,16 @@
     "firstName": "Ash",
     "lastName": "Ketchum",
     "email": "ash-ketchum@fake.fake",
-    "created": "2021-07-01T18:25:43.511Z"
+    "created": "2021-07-01T18:25:43.511Z",
+    "address": {
+        "line1": "123 abc st",
+        "city": "anywhere",
+        "state": "QQ",
+        "zip": "11111"
+    },
+    "linkedAccount": {
+        "instagram": {
+            "userName": "ashCathesThemAll"
+        }
+    }
 }

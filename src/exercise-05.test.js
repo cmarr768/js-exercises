@@ -19,7 +19,7 @@ describe('exercise-05', () => {
     });
 
     it('should handle fields that do not exist', () => {
-      expect(pick(user, ['email', 'address', 'updated'])).toStrictEqual({
+      expect(pick(user, ['email', 'altAddress', 'updated'])).toStrictEqual({
         email: user.email,
       });
     });
